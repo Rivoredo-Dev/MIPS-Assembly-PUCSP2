@@ -24,8 +24,3 @@ Para rodar os arquivos `.asm`, você precisará do simulador **MARS**:
 3.  **Montar (Assemble):** Clique no ícone da **Engrenagem** (ou pressione F3).
 4.  **Executar:** Clique no ícone de **Play** verde. 
     * *Dica:* No `ex2.asm`, acompanhe a atualização dos registradores `$t5`, `$t6` e `$t7` para ver os resultados do processamento em tempo real.
-
----
-**Integrantes:** * João Lucas de Lima Souza
-* Pedro Chagas
-* Guilherme Rivoredo
